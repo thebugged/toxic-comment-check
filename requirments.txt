@@ -1,0 +1,7 @@
+streamlit==1.48.1
+torch==2.8.0
+transformers==4.55.2
+scikit-learn==1.4.0
+pandas==2.1.1
+numpy==1.26.4
+huggingface-hub==0.34.4
