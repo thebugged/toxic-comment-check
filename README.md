@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://toxic-comment-check.streamlit.app/" target="_blank">
-      <img src="https://github.com/user-attachments/assets/91651103-74d5-4f5e-b345-7ca3d2d8ef96" alt="Toxic Comment Check Banner">
+      <img src="https://github.com/user-attachments/assets/6f78caec-ba8a-4c96-b373-00c64ec55ff6" alt="Toxic Comment Check Banner">
     </a>
   <br />
 
