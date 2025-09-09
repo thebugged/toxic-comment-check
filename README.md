@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://toxic-comment-check.streamlit.app/" target="_blank">
-      <img src="https://github.com/user-attachments/assets/e1cdac7d-fe2c-4f89-b209-a2e53ad73fa4" alt="Toxic Comment Check Banner">
+      <img src="https://github.com/user-attachments/assets/91651103-74d5-4f5e-b345-7ca3d2d8ef96" alt="Toxic Comment Check Banner">
     </a>
   <br />
 
@@ -60,4 +60,4 @@ streamlit run main.py
 2. Open your browser and navigate to `http://localhost:8501`
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://toxic-comment-check.streamlit.app/)
-```
+
